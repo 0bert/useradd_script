@@ -18,4 +18,6 @@ everything any Linux machine can do, intuitively to make user experience more ef
 
 Thank You!
 Obert S,
-aka OS
+aka OS.
+
+
